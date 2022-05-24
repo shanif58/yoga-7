@@ -20,7 +20,7 @@ min-height: 200px;
 }
 header a {text-decoration:none;}
 header a:link {color: #FFF;}
-header a:visited {color:FFF;}
+header a:visited {color:#FFF;}
 header a:hover {color: #EDF5F5;}
 .home, .content {
 height:20vh;
@@ -54,11 +54,11 @@ margin:0;
 }
 nav li {
 display: inline;
-padding: 0.1em;
+padding: 0 1em;
 width: 40%;
 }
 #mathero {
-background-image:url{yogamat.jpg);
+background-image:url(yogamat.jpg);
 background-repeat: no-repeat;
 background-size:cover;
 height: 300px;
